@@ -1,0 +1,1 @@
+QuizManagement allows users to effortlessly manage academic information, performance information, and quiz information. Admin may keep track of all academic, score, and performance data. Quiz records can be edited, added to, deleted, and updated by the administrator.
